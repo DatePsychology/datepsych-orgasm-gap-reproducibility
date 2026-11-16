@@ -74,7 +74,7 @@ The code uses fixed inputs and no random numbers. The key reported values agree 
 - Alexander & Caitlin (2024). [*The Orgasm Gap, Prosocial Males, and Evolution*](https://datepsychology.com/the-orgasm-gap-prosocial-males-and-evolution/). Date Psychology. Source for the original study's reported aggregate inputs.
 - Da Silva, C. S. A., Mafra, A. L., & Valentova, J. V. (published online 2024). [*Evolutionary Role of the Female Orgasm: Insights into Mate Choice and Beyond*](https://doi.org/10.1007/s10508-024-03011-3). *Archives of Sexual Behavior*. Source for the Figure 3 input values.
 
-Full bibliographic discussion of evolutionary mechanisms is in the companion critique. No copyrighted journal PDFs, raw third-party webpage archives, or original participant records are redistributed.
+Full bibliographic discussion of evolutionary mechanisms is in the [*companion methodological review*](https://datepsych.substack.com/p/does-female-orgasm-select-for-prosocial). No copyrighted journal PDFs, raw third-party webpage archives, or original participant records are redistributed.
 
 ## Transparency and limitations
 
