@@ -1,0 +1,7 @@
+outcome,article_label,coefficient,se,reported_z,reported_p,notes
+Sexual satisfaction,Article-labeled indirect effect,-0.263,0.05,5.229,<.001,"May instead be shared sex-to-orgasm path; exact lavaan model unknown"
+Sexual satisfaction,Article-labeled orgasm experience,-1.753,0.341,5.134,<.001,"Parameter interpretation unclear from article"
+Sexual satisfaction,Article-labeled direct effect,0.405,0.271,1.495,.135,"Outcome-specific parameter repeated in second model"
+Sexual regret,Article-labeled indirect effect,-0.263,0.05,5.229,<.001,"Repeated in separate outcome model; might be a common path"
+Sexual regret,Article-labeled orgasm experience,-1.753,0.341,5.134,<.001,"Repeated in separate outcome model; could have shared path interpretation"
+Sexual regret,Article-labeled direct effect,0.405,0.271,1.495,.135,"Outcome-specific parameter repeated in second model"

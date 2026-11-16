@@ -1,0 +1,3 @@
+outcome,mean_oral_yes,sd_oral_yes,mean_oral_no,sd_oral_no,assumed_n_oral_yes,assumed_n_oral_no,reported_t,reported_df,reported_cohens_d,provenance
+Sexual satisfaction,5.27,1.13,4.05,1.28,51,19,-2.16,25.58,-0.67,"Date Psychology reported group descriptives and Welch test; n values inferred from separate orgasm-by-oral-sex analysis and NOT verified as test-specific sample sizes"
+Sexual regret,2.51,1.30,3.95,1.15,51,19,2.19,26.26,0.67,"Date Psychology reported group descriptives and Welch test; n values inferred from separate orgasm-by-oral-sex analysis and NOT verified as test-specific sample sizes"

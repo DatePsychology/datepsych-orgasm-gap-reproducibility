@@ -1,0 +1,36 @@
+calculation,value,unit,note
+oral_sex_orgasm_rate_yes,74.50980392,percent,
+oral_sex_orgasm_rate_no,42.10526316,percent,
+oral_sex_relative_risk,1.769607843,ratio,
+oral_sex_risk_difference,32.40454076,percentage_points,
+reported_wrong_conditioning_yes_div_46,82.60869565,percent,NOT P(orgasm | oral sex)
+reported_wrong_conditioning_no_div_46,17.39130435,percent,NOT P(orgasm | no oral sex)
+oral_sex_chi2_Yates,5.093468165,,
+oral_sex_chi2_Yates_p,0.02401611647,p,
+five_encounters_probability_first_orgasm,66.66666667,percent,
+five_encounters_probability_no_first_orgasm,35.13513514,percent,
+five_encounters_risk_ratio,1.897435897,ratio,
+five_encounters_odds_ratio,3.692307692,ratio,
+sexual_satisfaction_recalculated_abs_Welch_t,3.657405069,abs_t,rounded reported means/SDs; assumed n=51/19
+sexual_satisfaction_recalculated_Welch_df,29.08724446,df,assumed n=51/19
+sexual_satisfaction_recalculated_abs_pooled_Cohens_d,1.041332036,abs_d,assumed n=51/19
+sexual_satisfaction_article_reported_abs_t,2.16,abs_t,
+sexual_satisfaction_article_reported_Welch_df,25.58,df,
+sexual_satisfaction_article_reported_abs_d,0.67,abs_d,
+sexual_regret_recalculated_abs_Welch_t,4.492492796,abs_t,rounded reported means/SDs; assumed n=51/19
+sexual_regret_recalculated_Welch_df,36.2597664,df,assumed n=51/19
+sexual_regret_recalculated_abs_pooled_Cohens_d,1.141018524,abs_d,assumed n=51/19
+sexual_regret_article_reported_abs_t,2.19,abs_t,
+sexual_regret_article_reported_Welch_df,26.26,df,
+sexual_regret_article_reported_abs_d,0.67,abs_d,
+female_minus_male_ever_orgasm_prevalence,-0.2634,probability_difference,rounded percentages 65.71% and 92.05%
+bonferroni_prosociality_versus_orgasm_on_first_encounter,0.148,adjusted_p,illustrative 4-test set
+bonferroni_prosociality_versus_ever_orgasm,0.064,adjusted_p,illustrative 4-test set
+bonferroni_prosociality_versus_sexual_satisfaction,0.016,adjusted_p,illustrative 4-test set
+bonferroni_prosociality_versus_sexual_regret,0.004,adjusted_p,illustrative 4-test set
+probability_ever_orgasm_5_encounters_if_p40_each_independent,92.224,percent,"hypothetical, not sample data"
+dasilva_r2_empathy,3.4,percent,
+dasilva_r2_perceived_health,2.6,percent,
+dasilva_r2_physical_attractiveness,1.6,percent,
+dasilva_r2_kindness,1.4,percent,
+dasilva_r2_intelligence,1,percent,

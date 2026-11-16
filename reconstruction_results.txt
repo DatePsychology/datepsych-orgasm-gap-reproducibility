@@ -1,0 +1,61 @@
+AGGREGATE-STATISTICS RECONSTRUCTION — NOT A PARTICIPANT-LEVEL REPLICATION
+Inputs: published/rounded statistics transcribed or logically reconstructed as documented in CSV files
+
+ORAL SEX × EVER ORGASM (reconstructed n=70; rows receipt yes/no, columns orgasm yes/no)
+Contingency table: [[38,13],[8,11]]
+oral_sex_orgasm_rate_yes: 74.509804 percent
+oral_sex_orgasm_rate_no: 42.105263 percent
+oral_sex_relative_risk: 1.769608 ratio
+oral_sex_risk_difference: 32.404541 percentage_points
+reported_wrong_conditioning_yes_div_46: 82.608696 percent | NOT P(orgasm | oral sex)
+reported_wrong_conditioning_no_div_46: 17.391304 percent | NOT P(orgasm | no oral sex)
+oral_sex_chi2_Yates: 5.093468
+oral_sex_chi2_Yates_p: 0.024016 p
+
+FIRST-ENCOUNTER ORGASM × >=5 ENCOUNTERS (reconstructed n=70)
+Contingency table: [[22,11],[13,24]]
+five_encounters_probability_first_orgasm: 66.666667 percent
+five_encounters_probability_no_first_orgasm: 35.135135 percent
+five_encounters_risk_ratio: 1.897436 ratio
+five_encounters_odds_ratio: 3.692308 ratio
+
+WELCH T RECONSTRUCTIONS — CONDITIONAL ON UNVERIFIED 51-vs-19 SUBGROUP SIZES
+Sign of reported t/d may depend on comparison order; magnitudes used below.
+sexual_satisfaction_recalculated_abs_Welch_t: 3.657405 abs_t | rounded reported means/SDs; assumed n=51/19
+sexual_satisfaction_recalculated_Welch_df: 29.087244 df | assumed n=51/19
+sexual_satisfaction_recalculated_abs_pooled_Cohens_d: 1.041332 abs_d | assumed n=51/19
+sexual_satisfaction_article_reported_abs_t: 2.160000 abs_t
+sexual_satisfaction_article_reported_Welch_df: 25.580000 df
+sexual_satisfaction_article_reported_abs_d: 0.670000 abs_d
+sexual_regret_recalculated_abs_Welch_t: 4.492493 abs_t | rounded reported means/SDs; assumed n=51/19
+sexual_regret_recalculated_Welch_df: 36.259766 df | assumed n=51/19
+sexual_regret_recalculated_abs_pooled_Cohens_d: 1.141019 abs_d | assumed n=51/19
+sexual_regret_article_reported_abs_t: 2.190000 abs_t
+sexual_regret_article_reported_Welch_df: 26.260000 df
+sexual_regret_article_reported_abs_d: 0.670000 abs_d
+
+MEDIATION PRINTED-COEFFICIENT CHECKS — DO NOT INFER LAVAAN MODEL SPECIFICATION
+Sexual satisfaction: Article-labeled indirect effect: beta=-0.263, SE=0.05, reported z=5.229, beta/SE=-5.260; OPPOSITE SIGNS
+Sexual satisfaction: Article-labeled orgasm experience: beta=-1.753, SE=0.341, reported z=5.134, beta/SE=-5.141; OPPOSITE SIGNS
+Sexual satisfaction: Article-labeled direct effect: beta=0.405, SE=0.271, reported z=1.495, beta/SE=1.494; sign consistent
+Sexual regret: Article-labeled indirect effect: beta=-0.263, SE=0.05, reported z=5.229, beta/SE=-5.260; OPPOSITE SIGNS
+Sexual regret: Article-labeled orgasm experience: beta=-1.753, SE=0.341, reported z=5.134, beta/SE=-5.141; OPPOSITE SIGNS
+Sexual regret: Article-labeled direct effect: beta=0.405, SE=0.271, reported z=1.495, beta/SE=1.494; sign consistent
+female_minus_male_ever_orgasm_prevalence: -0.263400 probability_difference | rounded percentages 65.71% and 92.05%
+A common sex-to-orgasm path may legitimately repeat; repeated outcome-specific paths still need clarification.
+
+BONFERRONI ILLUSTRATION — FOUR SELECTED TESTS ONLY; NOT PRE-REGISTERED FAMILY
+bonferroni_prosociality_versus_orgasm_on_first_encounter: 0.148000 adjusted_p | illustrative 4-test set
+bonferroni_prosociality_versus_ever_orgasm: 0.064000 adjusted_p | illustrative 4-test set
+bonferroni_prosociality_versus_sexual_satisfaction: 0.016000 adjusted_p | illustrative 4-test set
+bonferroni_prosociality_versus_sexual_regret: 0.004000 adjusted_p | illustrative 4-test set
+
+CONSTANT PER-ENCOUNTER ORGASM PROBABILITY — HYPOTHETICAL EXPOSURE EXAMPLE
+probability_ever_orgasm_5_encounters_if_p40_each_independent: 92.224000 percent | hypothetical, not sample data
+
+DA SILVA ET AL. REPORTED R^2 (not independent recalculations)
+dasilva_r2_empathy: 3.400000 percent
+dasilva_r2_perceived_health: 2.600000 percent
+dasilva_r2_physical_attractiveness: 1.600000 percent
+dasilva_r2_kindness: 1.400000 percent
+dasilva_r2_intelligence: 1.000000 percent

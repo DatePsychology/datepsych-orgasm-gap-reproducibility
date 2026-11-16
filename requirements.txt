@@ -1,0 +1,5 @@
+# Tested with Python 3.13.5, NumPy 2.3.5, SciPy 1.17.0, Matplotlib 3.10.8
+# Use Python 3.11+ with the ranges below to reproduce the numerical results.
+numpy>=1.26,<3.0
+scipy>=1.12,<2.0
+matplotlib>=3.8,<4.0
